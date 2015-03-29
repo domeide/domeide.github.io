@@ -32,5 +32,11 @@ colors:
   green:     '#9bcf2f'
   purple:    '#c869bf'
   orange:    '#fab125'
-  turquoise: '#0fbfcf'
-  
+  turquoise: '#1abc9c'
+  emerald:   '#2ecc71'
+  amethyst:  '#9b59b6'
+  sunflower: '#f1c40f'
+  pumpkin:   '#d35400'
+  alizarin:  '#e74c3c'
+  peterriver: '#3498db'
+
