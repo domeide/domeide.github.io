@@ -1,0 +1,37 @@
+ul.screenshot-images {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  ul.screenshot-images li {
+    width: 200px;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0 0 2.5% 2.5%;
+    padding: 0;
+  }
+
+  ul.screenshot-images li a {
+    text-decoration: none;
+  }
+
+  ul.screenshot-images li a img {
+    box-shadow: 0 0 5px #c0c0c0;
+    width: 200px;
+  }
+
+  ul.screenshot-images h3 {
+    font-size: 1em;
+    font-weight: bold;
+    text-align: left;
+    margin: 0 0 5px;
+    padding: 0;
+  }
+
+  ul.screenshot-images p {
+    font-size: 0.9em;
+    color: #000;
+    margin: 0;
+    padding: 0;
+  }
