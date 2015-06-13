@@ -2,7 +2,7 @@
 title: "Visual Studio"
 bg: peterriver  #defined in _config.yml, can use html color like '#0fbfcf'
 color: white   #text color
-fa-icon: ship
+fa-icon: lightbulb-o
 ---
 
 #### [Visual Studio 2015 Tools for Docker](https://visualstudiogallery.msdn.microsoft.com/6f638067-027d-4817-bcc7-aa94163338f0)
