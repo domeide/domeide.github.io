@@ -17,7 +17,7 @@ highlighter: pygments
 ### content configuration ###
 title:       "Docker meets the IDE - Integrating your favorite containers in the editor of your choice!"
 keywords:    "domeide, Docker, IDE, vim, Sublime Text, Eclipse, IntelliJ, Emacs, Atom"
-description: "Some tools to help integrating Docker into some of the most populra Integrated Development Environments."
+description: "Some tools to help integrating Docker into some of the most popular Integrated Development Environments."
 source_link: "https://github.com/domeide/domeide.github.io"
 favicon:     "img/favicon-sun-o.ico"
 touch_icon:  #put a path like: "img/apple-touch-icon.png"
