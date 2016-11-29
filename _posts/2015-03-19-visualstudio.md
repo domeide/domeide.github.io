@@ -5,7 +5,7 @@ color: white   #text color
 fa-icon: lightbulb-o
 ---
 
-#### [Visual Studio 2015 Tools for Docker](https://visualstudiogallery.msdn.microsoft.com/6f638067-027d-4817-bcc7-aa94163338f0)
+#### [Visual Studio 2015 Tools for Docker](https://aka.ms/DockerToolsForVS)
 
 <ul class="screenshot-images">
   <li>
